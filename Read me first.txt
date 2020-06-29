@@ -1,0 +1,2 @@
+1. Make sure you have all the necessary tools installed to view a react project
+2. Run "npm run dev" in vs code.
